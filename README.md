@@ -16,7 +16,7 @@ Introduce the Random-Grid based Visual Secret Sharing Scheme (C++) <br/>
 https://www.youtube.com/watch?v=-v3n0T8MBSQ&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=13 <br/>
  
 👉 IP_004: <br/>
-Idea inspiration: learn in class <br/>
+Idea inspiration: learn from class <br/>
 Apply the blurring effect on images by neighborhood/Gaussian/median filter (C++) <br/>
 https://www.youtube.com/watch?v=jtcdKQNwnU0&index=12&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
  
@@ -36,17 +36,17 @@ Simulate the prfile picture scaling (C++) <br/>
 https://www.youtube.com/watch?v=UA7Wjr4WuhA&index=9&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
 
 👉 IP_008: <br/>
-Idea inspiration: learn in class <br/>
+Idea inspiration: learn from class <br/>
 Apply the canny edge detection on images (C++) <br/>
 https://www.youtube.com/watch?v=PtSgA19sC5g&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=8 <br/>
 
 👉 IP_009: <br/>
-Idea inspiration: learn in class <br/>
+Idea inspiration: learn from class <br/>
 Design a program to embed secret messages (other image) into an image (C++) <br/>
 https://www.youtube.com/watch?v=YrqRk7aTj3U&index=7&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
 
 👉 IP_010: <br/>
-Idea inspiration: learn in class <br/>
+Idea inspiration: learn from class <br/>
 Apply the alpha blending on images (C++) <br/>
 https://www.youtube.com/watch?v=SUGjYvbaX1U&index=6&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
 
@@ -56,7 +56,7 @@ Simulate the morphological processing (C++) <br/>
 https://www.youtube.com/watch?v=QbjfZVLDyuY&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=5 <br/>
 
 👉 IP_012: <br/>
-Idea inspiration: learn in class (thresholding) <br/>
+Idea inspiration: learn from class (thresholding) <br/>
 Apply the OTSU thresholding on images (C++) <br/>
 https://www.youtube.com/watch?v=Ofi1Fn18YLc&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=4 <br/>
 
@@ -66,7 +66,7 @@ Apply the FS dithering on images (Processing) <br/>
 https://www.youtube.com/watch?v=RTaS65mVON4&index=3&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
 
 👉 IP_014: <br/>
-Idea inspiration: learn in class <br/>
+Idea inspiration: learn from class <br/>
 Apply the linear contrast stretching on images (C++) <br/>
 https://www.youtube.com/watch?v=R25DMf8EveI&index=2&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
 
