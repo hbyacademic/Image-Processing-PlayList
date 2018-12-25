@@ -51,7 +51,7 @@ Apply the alpha blending on images (C++) <br/>
 https://www.youtube.com/watch?v=SUGjYvbaX1U&index=6&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
 
 👉 IP_011: <br/>
-Idea inspiration: my brain <br/>
+Idea inspiration: <br/>
 Simulate the morphological processing (C++) <br/>
 https://www.youtube.com/watch?v=QbjfZVLDyuY&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=5 <br/>
 
