@@ -75,3 +75,8 @@ Idea inspiration: IP_013 <br/>
 Apply the ordered dithering on images (Processing) <br/>
 https://www.youtube.com/watch?v=e61N6tDnfSk&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=1 <br/>
 
+👉 IP_016: <br/>
+Idea inspiration: <br/>
+Find the local binary patterns of images (Processing) <br/>
+https://www.youtube.com/watch?v=EuUl9bOf55g&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
+
