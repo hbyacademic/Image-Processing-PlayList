@@ -80,3 +80,7 @@ Idea inspiration: <br/>
 Find the local binary patterns of images (Processing) <br/>
 https://www.youtube.com/watch?v=EuUl9bOf55g&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
 
+👉 IP_017: <br/>
+Idea inspiration: when I take the picture of the screen by my mobile phone...<br/>
+Show a simple method to generate Moiré pattern (Processing) <br/>
+https://www.youtube.com/watch?v=mYibSde5-LM&index=2&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
