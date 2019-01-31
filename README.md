@@ -84,3 +84,8 @@ https://www.youtube.com/watch?v=EuUl9bOf55g&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS
 Idea inspiration: when I take the picture of the screen by my mobile phone...<br/>
 Show a simple method to generate Moiré pattern (Processing) <br/>
 https://www.youtube.com/watch?v=mYibSde5-LM&index=2&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
+
+👉 IP_018: <br/>
+Idea inspiration: when I take the picture...<br/>
+Apply the fisheye effect on images (Processing) <br/>
+https://www.youtube.com/watch?v=nk5LQ2G8Jps&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
