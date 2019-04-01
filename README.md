@@ -89,3 +89,21 @@ https://www.youtube.com/watch?v=mYibSde5-LM&index=2&list=PLrJ7yjuOYajzCKy4C1Enib
 Idea inspiration: when I take the picture...<br/>
 Apply the fisheye effect on images (Processing) <br/>
 https://www.youtube.com/watch?v=nk5LQ2G8Jps&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
+
+
+👉 IP_019: <br/>
+Idea inspiration: when I take the picture...<br/>
+Apply the twist effect on images (Processing) <br/>
+https://www.youtube.com/watch?v=nk5LQ2G8Jps&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
+
+
+👉 IP_020: <br/>
+Idea inspiration: when I take the picture...<br/>
+Apply the swirl effect on images (Processing) <br/>
+https://www.youtube.com/watch?v=nk5LQ2G8Jps&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
+
+
+👉 IP_021: <br/>
+Idea inspiration: leran from class<br/>
+Apply the oil painting effect on images (Processing) <br/>
+https://www.youtube.com/watch?v=nk5LQ2G8Jps&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
