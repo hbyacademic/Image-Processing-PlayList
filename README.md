@@ -106,4 +106,5 @@ https://www.youtube.com/watch?v=y2uOnKfzZ7c&feature=youtu.be <br/>
 👉 IP_021: <br/>
 Idea inspiration: leran from class<br/>
 Apply the oil painting effect on images (Processing) <br/>
-https://www.youtube.com/watch?v=nk5LQ2G8Jps&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq <br/>
+https://www.youtube.com/watch?v=CqSiZV-M1HY <br/>
+
