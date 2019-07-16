@@ -108,3 +108,7 @@ Idea inspiration: leran from class<br/>
 Apply the oil painting effect on images (Processing) <br/>
 https://www.youtube.com/watch?v=CqSiZV-M1HY <br/>
 
+👉 IP_021: <br/>
+Idea inspiration: <br/>
+Apply the rectangle effect on images (Processing) <br/>
+https://www.youtube.com/watch?v=MwoH9jWzDZ4 <br/>
