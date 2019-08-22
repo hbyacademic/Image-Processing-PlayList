@@ -112,3 +112,8 @@ https://www.youtube.com/watch?v=CqSiZV-M1HY <br/>
 Idea inspiration: <br/>
 Apply the rectangle effect on images (Processing) <br/>
 https://www.youtube.com/watch?v=MwoH9jWzDZ4 <br/>
+
+👉 IP_023: <br/>
+Idea inspiration: <br/>
+Apply the frosted glass effect on images (Processing) <br/>
+https://www.youtube.com/watch?v=9Mf2MDZLyPA <br/>
