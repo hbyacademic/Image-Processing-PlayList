@@ -117,3 +117,13 @@ https://www.youtube.com/watch?v=MwoH9jWzDZ4 <br/>
 Idea inspiration: <br/>
 Apply the frosted glass effect on images (Processing) <br/>
 https://www.youtube.com/watch?v=9Mf2MDZLyPA <br/>
+
+👉 IP_024: <br/>
+Idea inspiration: <br/>
+Apply the old photo effect on images (Processing) <br/>
+https://www.youtube.com/watch?v=Pefe-pi37hE&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=3 <br/>
+
+👉 IP_025: <br/>
+Idea inspiration: <br/>
+Implement Harris corner detector (Processing) <br/>
+https://www.youtube.com/watch?v=qX4gQIsBrhE&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=2 <br/>
