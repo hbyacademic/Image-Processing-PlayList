@@ -127,3 +127,8 @@ https://www.youtube.com/watch?v=Pefe-pi37hE&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS
 Idea inspiration: <br/>
 Implement Harris corner detector (Processing) <br/>
 https://www.youtube.com/watch?v=qX4gQIsBrhE&list=PLrJ7yjuOYajzCKy4C1Enib-fW0y_sS2dq&index=2 <br/>
+
+👉 IP_026: <br/>
+Idea inspiration: <br/>
+Implement SIFT detector (Processing) <br/>
+https://www.youtube.com/watch?v=uz8gLKBDItM <br/>
