@@ -14,7 +14,7 @@ void setup(){
 
 void draw(){
   image(img,0,0);
-  image(HistogramEqualization(img),480,0);
+  image(HistogramEqualization(img),WIDTH,0);
   
   //histogram
   for(int i=0;i<256;i++){
